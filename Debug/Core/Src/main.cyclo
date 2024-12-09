@@ -1,0 +1,11 @@
+../Core/Src/main.c:76:5:main	2
+../Core/Src/main.c:130:6:SystemClock_Config	3
+../Core/Src/main.c:171:6:system_init	1
+../Core/Src/main.c:183:6:test_LedDebug	2
+../Core/Src/main.c:190:6:test_7seg	1
+../Core/Src/main.c:196:6:test_button	3
+../Core/Src/main.c:220:9:isButtonPress	2
+../Core/Src/main.c:226:6:displayTime	1
+../Core/Src/main.c:236:6:displayTimeModify	1
+../Core/Src/main.c:246:6:displayTimeRemind	1
+../Core/Src/main.c:262:6:Error_Handler	1

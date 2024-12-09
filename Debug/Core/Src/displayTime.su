@@ -1,0 +1,9 @@
+../Core/Src/displayTime.c:12:6:displayNormalTime	40	static
+../Core/Src/displayTime.c:30:6:displayNoDateTime	40	static
+../Core/Src/displayTime.c:48:6:displayNoMonthTime	40	static
+../Core/Src/displayTime.c:66:6:displayNoYearTime	40	static
+../Core/Src/displayTime.c:84:6:displayNoDayTime	40	static
+../Core/Src/displayTime.c:102:6:displayNoHourTime	40	static
+../Core/Src/displayTime.c:120:6:displayNoMinuteTime	40	static
+../Core/Src/displayTime.c:138:6:displayNoSecondTime	40	static
+../Core/Src/displayTime.c:156:6:displayToggleTime	40	static

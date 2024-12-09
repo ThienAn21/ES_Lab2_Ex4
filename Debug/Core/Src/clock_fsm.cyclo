@@ -1,0 +1,5 @@
+../Core/Src/clock_fsm.c:35:6:updateTime	1
+../Core/Src/clock_fsm.c:45:6:updateDisplayTime	1
+../Core/Src/clock_fsm.c:55:6:updateRemindTime	1
+../Core/Src/clock_fsm.c:65:6:checkTimeRemind	12
+../Core/Src/clock_fsm.c:80:6:clock_fsm	142

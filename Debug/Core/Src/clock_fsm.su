@@ -1,0 +1,5 @@
+../Core/Src/clock_fsm.c:35:6:updateTime	24	static
+../Core/Src/clock_fsm.c:45:6:updateDisplayTime	24	static
+../Core/Src/clock_fsm.c:55:6:updateRemindTime	24	static
+../Core/Src/clock_fsm.c:65:6:checkTimeRemind	4	static
+../Core/Src/clock_fsm.c:80:6:clock_fsm	48	static
